@@ -2,7 +2,7 @@
 
 \section{Contextualização e Motivação}
 
-O entretenimento digital vem sendo cada vez mais popular entre as crianças e os adolescentes e atualmente é tão abrangente que engloba um público mais adulto e maduro
+    O entretenimento digital vem sendo cada vez mais popular entre as crianças e os adolescentes e atualmente é tão abrangente que engloba um público mais adulto e maduro
 e um outro grupo de jogadores casuais que antigamente não jogavam por geralmente encontrar dificuldades em manipular o joystick usual,que agora jogam videogames como
 o Nintendo Wii, o PS Move no Playstation 3 e o Kinect no Xbox360. Muitos fabricantes de jogos eletrônicos, se empenham em criar efeitos mais atrativos para os
 usuários, uns recorrem a gráficos e animações mais realistas enquanto outros se preocupam em criar  uma experiência de jogabilidade inovadora.\cite{WiiWillRockYou}
@@ -20,9 +20,10 @@ tiro em primeira pessoa desenvolvido pela Treyarch, editado pela Activision e la
  Xbox 360, Playstation 3, Wii e Nintendo DS.} foi o maior lançamento da história do entretenimento,
 vendendo no dia do lançamento 5,6 milhões de cópias nos Estados Unidos e Reino Unido, já vendeu mais de 13 milhões e é o título mais vendido da história no mercado
 americano. Apenas para efeito de comparação, o filme \textit{Avatar}\footnote{\textit{Avatar} é um filme americano de ficção científica de 2009, escrito e dirigido
-por James Cameron, que está em primeiro lugar no ranking de bilheteria, que rendeu US\$ 2,78 bilhões.} vendeu 3,2 milhões de DVDs e Blu-Rays mundialmente no dia do lançamento.\cite{TamanhoIndustriaGames}
+por James Cameron, que está em primeiro lugar no ranking de bilheteria, que rendeu US\$ 2,78 bilhões.} vendeu 3,2 milhões de DVDs e Blu-Rays mundialmente no dia do
+ lançamento.\cite{TamanhoIndustriaGames}
 
-Entretenimento por computador ou videogames fazem um papel importante na vida de muitas pessoas e os pais acreditam que existe um impacto positivo em jogar por videogames.
+ Entretenimento por computador ou videogames fazem um papel importante na vida de muitas pessoas e os pais acreditam que existe um impacto positivo em jogar por videogames.
 De acordo com a Associação de Software de Entretenimentos do Estados Unidos\cite{ESA}, 72\% dos chefes de família jogam por computador ou vídeo games,
 91\% das vezes os país estão presentes na hora que um jogo é alugado ou comprado. 68\% dos pais acreditam que jogos fornecem estimulação mental ou educacional,
 57\% acreditam que os jogos auxiliam a família a passar mais tempo junta e 54\% acreditam que ajudam as crianças a se juntarem com amigos. 59\% acreditam que esses
@@ -34,23 +35,44 @@ Os jogadores adultos já jogam a uma média de 12 anos. Os consumidores gastaram
 Todo esse cenário nos revela como existe a pratica regular de se jogar tanto por crianças quanto por adultos, assim como o retorno financeiro envolvido nessa
 indústria. É importante então observar e se estudar os efeitos dessa rotina.
 
+ Esse trabalho apresenta uma introdução aos fundamentos teóricos do curso de graduação ciência da computação aplicados ao desenvolvimento de jogos eletrônicos
+fisicamente interativos.Ao final, há o detalhamento do processo de desenvolvimento de um jogo demonstrativo, que acompanha a monografia.
 
+\section{Grandes empresas e jogos fisicamente interativos}
 
-Esse trabalho apresenta uma introdução aos fundamentos teóricos do curso de graduação ciência da computação aplicados ao desenvolvimento de jogos eletrônicos
-fisicamente interativos
+ Quando o Nintendo Wii começou a usar controles simples de se usar com sensores de movimentos e com preço mais acessível, criando um ramo de jogos onde sensação
+de imersão se dava pelos movimentos físicos que o jogador fazia ao invés de gráficos superiores, fez um grande sucesso, atraiu um grupo de consumidores diferente
+e conseguiu competir em vendas contra os consoles  da concorrência que possuem hardware superior, porem alguns anos depois a Microsoft e Sony observando o sucesso
+do estilo de jogo, construíram acessórios para desenvolverem também seu jogos fisicamente interativos.
+
+ A Sony desenvolveu um controle similar ao da Nintendo, chamado PS Move, o aparelho possui sensores com desempenho melhores, funciona junto com uma webcam que
+possui uma taxa de captura de quadros acima da média, o controle possui uma esfera na extremidade superior que acende com uma luz que varia de cor, essa luz
+permite que a webcam identifique o controle mesmo em ambiente completamente escuros, o fato de ter uma webcam trabalhando em conjunto com os controles, melhora
+a imersão e faz com que seja mais difícil o usuário "enganar" o jogo, como acontecia por exemplo no Nintendo Wii, era possível jogar um jogo de luta e dar simular
+os socos simplesmente balançando os controles, a webcam, no caso da Sony, identifica quando o controle esta mais perto ou mais distante da webcam, colocada em
+cima da televisão,balançar os sensores do controle nessa situação não levará o avatar a socar, pois a webcam não estará capturando a aproximação dos controles em
+relação a webcam.(colocar referencia motion gaming review)
+
+ A Microsoft criou um acessório diferenciado, com preço bem acima dos concorrentes, eliminou a necessidade de qualquer controle para jogar, o hardware desse
+acessório contém 2 câmeras, 4 microfones, acelerômetro, ventoinha, projetor infra-vermelho e diversos chips para que o processamento fosse feito o mínimo no
+console.\cite{InsideKinect}
+
+ Apesar da Microsoft fornecer os drivers para que o acessório possa ser reconhecido pelo sistema operacional Windows e mais recentemente o GNU/Linux, o preço está
+em torno de R\$ 400,00, o que a torna um acessório inviável para muitos usuários de computador,  contra, por exemplo R\$ 80,00 da PS EYE, nome da webcam
+utilizada pelo PS3, preço melhor quando comparada a outras webcams da mesma categoria.
 
 \section{Objetivos do Projeto}
 
-Desenvolver alguma técnica para capturar os movimentos do usuário através de uma webcam que depois de processado e interpretado irá ser associado a um elemento
+ Desenvolver alguma técnica para capturar os movimentos do usuário através de uma webcam que depois de processado e interpretado irá ser associado a um elemento
 que o representará no ambiente virtual.
 
 \subsection{Objetivo geral}
 
-Estabelecer um esquema modular e criar uma ferramenta para incentivar o desenvolvimento e pesquisas de tecnologias de software para jogos fisicamente interativos
+ Estabelecer um esquema modular e criar uma ferramenta para incentivar o desenvolvimento e pesquisas de tecnologias de software para jogos fisicamente interativos
 baseados em princípios de imersão.
 
 \subsection{Objetivo específico}
 
-Implementar um ou mais exemplos de mini-jogos fisicamente interativos, investigando os requisitos mínimos de hardware necessários, como a taxa mínima de quadros
+ Implementar um ou mais exemplos de mini-jogos fisicamente interativos, investigando os requisitos mínimos de hardware necessários, como a taxa mínima de quadros
 capturados pela webcam, \textit{clock} do processador e memória RAM.
 
