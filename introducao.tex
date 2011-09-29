@@ -1,11 +1,18 @@
 \chapter{Introdução}
 
-\section{Contextualização e Motivação}
+\section{Contextualização e Justificativa}
 
 O entretenimento digital vem sendo cada vez mais popular entre as crianças e os adolescentes e atualmente é tão abrangente que engloba um público mais adulto e maduro
 e um outro grupo de jogadores casuais que antigamente não jogavam por geralmente encontrar dificuldades em manipular o joystick usual,que agora jogam videogames como
-o Nintendo Wii, o PS Move no Playstation 3 e o Kinect no Xbox360. Muitos fabricantes de jogos eletrônicos, se empenham em criar efeitos mais atrativos para os
+o Nintendo Wii, ou usando acessórios como o PS Move no Playstation 3 e o Kinect no Xbox360. Muitos fabricantes de jogos eletrônicos, se empenham em criar efeitos mais atrativos para os
 usuários, uns recorrem a gráficos e animações mais realistas enquanto outros se preocupam em criar  uma experiência de jogabilidade inovadora.\cite{WiiWillRockYou}
+
+\begin{figure}[h]
+    \center
+    \includegraphics[scale=0.40]{imagens/os3consoles.jpg}
+    \label{os3consoles}
+    \caption{Nintendo Wii, Xbox 360 e PS3}
+\end{figure}
 
 Nos jogos fisicamente interativos\footnote{\textit{What is motion-controlled gaming? Definition from WhatIs.com.}
 http://whatis.techtarget.com/definition/motion-gaming.html. Acesso  em: 14/09/2011.}, o usuário movimenta partes do corpo para atuar direta ou indiretamente com
@@ -40,40 +47,89 @@ fisicamente interativos.Ao final, há o detalhamento do processo de desenvolvime
 
 \section{Grandes empresas e jogos fisicamente interativos}
 
-Quando o Nintendo Wii começou a usar controles(fig.\ref{wiimote}) simples de se usar com sensores de movimentos e com preço mais acessível, criando um ramo de jogos onde sensação
+Quando o Nintendo Wii começou a usar controles(figura \ref{wiimote}) simples de se usar com sensores de movimentos e com preço mais acessível, criando um ramo de jogos onde sensação
 de imersão se dava pelos movimentos físicos que o jogador fazia ao invés de gráficos superiores, fez um grande sucesso, atraiu um grupo de consumidores diferente
 e conseguiu competir em vendas contra os consoles  da concorrência que possuem hardware superior, porem alguns anos depois a Microsoft e Sony observando o sucesso
 do estilo de jogo, construíram acessórios para desenvolverem também seu jogos fisicamente interativos.
 
-A Sony desenvolveu um controle(fig.\ref{psmove}) similar ao da Nintendo, chamado PS Move, o aparelho possui sensores com desempenho melhores, funciona junto com uma webcam,
-chamada de que PSeye\, que
-possui uma taxa de captura de quadros acima da média, o controle possui uma esfera na extremidade superior que acende com uma luz que varia de cor, essa luz
-permite que a webcam identifique o controle mesmo em ambiente completamente escuros, o fato de ter uma webcam trabalhando em conjunto com os controles, melhora
-a imersão e faz com que seja mais difícil o usuário "enganar" o jogo, como acontecia por exemplo no Nintendo Wii, era possível jogar um jogo de luta e dar simular
-os socos simplesmente balançando os controles, a webcam, no caso da Sony, identifica quando o controle esta mais perto ou mais distante da webcam, colocada em
-cima da televisão,balançar os sensores do controle nessa situação não levará o avatar a socar, pois a webcam não estará capturando a aproximação dos controles em
-relação a webcam.\cite{MotionGamingReview}
+\begin{figure}[h]
+    \center
+    \includegraphics[scale=0.45]{imagens/wiimote.jpg}
 
-A Microsoft criou um acessório diferenciado, com preço bem acima dos concorrentes, eliminou a necessidade de qualquer controle para jogar, o hardware desse
+    \caption{Controle Wiimote da Nintendo Wii}
+    \label{wiimote}
+\end{figure}
+
+A Sony desenvolveu um controle similar ao da Nintendo, chamado PS Move(figura \ref{psmove}), o aparelho possui sensores com desempenho melhores, funciona junto com uma webcam,
+chamada de que PSeye(figura \ref{pseye}), que
+possui uma taxa de captura de quadros acima da média, o controle possui uma esfera na extremidade superior que acende com uma luz que varia de cor, essa luz
+permite que a webcam identifique o controle mesmo em ambientes completamente escuros, o fato de ter uma webcam trabalhando em conjunto com os controles, melhora
+a imersão e faz com que seja mais difícil o usuário "enganar" o jogo, como acontecia por exemplo no Nintendo Wii, era possível jogar um jogo de luta e executar
+os socos simplesmente balançando os controles, a PSeye, no caso da Sony, identifica quando o controle esta mais perto ou mais distante da webcam, colocada em
+cima da televisão, balançar os sensores do controle nessa situação não levará o avatar a socar, como acontecia no Wii, pois a câmera não estará capturando a
+aproximação dos controles em relação a ela.\cite{MotionGamingReview}
+
+A Microsoft criou um acessório diferenciado, chamado Kinect(figura \ref{kinect}), com preço bem acima dos concorrentes, eliminou a necessidade de qualquer controle para jogar, o hardware desse
 acessório contém 2 câmeras, 4 microfones, acelerômetro, ventoinha, projetor infra-vermelho e diversos chips para que o processamento fosse feito o mínimo no
 console.\cite{InsideKinect}
 
 Apesar da Microsoft fornecer os drivers para que o acessório possa ser reconhecido pelo sistema operacional Windows e mais recentemente o GNU/Linux, o preço está
-em torno de R\$ 400,00, o que a torna um acessório inviável para muitos usuários de computador,  contra, por exemplo R\$ 80,00 da PSeye, nome da webcam
-utilizada pelo PS3, preço melhor quando comparada a outras webcams da mesma categoria.
-
-\begin{figure}[h]
-    \center
-    \includegraphics[scale=0.45]{imagens/wiimote.jpg}
-    \label{wiimote}
-    \caption{Controle da Nintendo Wii Wiimote}
-\end{figure}
+em torno de R\$ 400,00, o que a torna um acessório inviável para muitos usuários de computador,  contra, por exemplo R\$ 80,00 da PSeye,
+preço melhor quando comparada a outras webcams da mesma categoria.
 
 \begin{figure}[h]
     \center
     \includegraphics[scale=0.45]{imagens/psmove.jpg}
+
+    \caption{Controle PSmove do PS3}
     \label{psmove}
-    \caption{Controle do PS3 PSmove}
+\end{figure}
+
+\begin{figure}[h]
+    \center
+    \includegraphics[scale=0.25]{imagens/pseye.jpg}
+
+    \caption{Camera  PSeye do PS3}
+    \label{pseye}
+\end{figure}
+
+\begin{figure}[h]
+    \center
+    \includegraphics[scale=0.35]{imagens/kinect.jpg}
+
+    \caption{O Kinect da Microsoft}
+    \label{kinect}
+\end{figure}
+
+\section{Definindo o Problema}
+
+Esse projeto não utilizará nenhum equipamento específico, diferente da maioria
+dos trabalhos relacionados citados no segundo capítulo, será desenvolvido para câmeras
+web doméstica em microcomputadores.
+
+O projeto tem como desafio criar um rastreio do corpo  do usuário, ou alguma parte dele
+ou algum objeto que o mesmo esteja segurando.Será preciso calcular a posição do usuário
+em relação a câmera e para que essa experiência seja em fluente do
+ponto de vista de taxa de atualização entre os movimentos que são executados e o retorno
+por parte do ambiente gráfico, será importante uma boa taxa de quadros assim como
+uma taxa aceitável de detecção para cada uma deles.A maioria dos algoritmos de
+detecção consomem muito processamento. Essa detecções precisarão ser feitas
+rapidamente, para que o programa consiga rodar em tempo real. Com uma baixa
+taxa de frames por segundo, o usuário terá um atraso entre o movimento que ele executou
+e a resposta do programa.
+
+Os protótipos estão sendo desenvolvidos utilizando a linguagem Python, com o
+auxílio da biblioteca OpenCV, para processamento de imagem. Para a modelagem
+do ambiente virtual, foi utilizado a biblioteca OpenGL, mas ainda está sendo
+estudada a possibilidade de se utilizar a biblioteca Pygame ou o programa Blender.
+O sistema pode ser visualizado na figura \ref{Diagrama}.
+
+\begin{figure}[h]
+    \center
+    \includegraphics[scale=0.50]{imagens/Diagrama.jpg}
+
+    \caption{Diagrama de blocos do projeto}
+    \label{Diagrama}
 \end{figure}
 
 \section{Objetivos do Projeto}
