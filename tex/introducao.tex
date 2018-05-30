@@ -1,0 +1,46 @@
+\Chapter{Introdução}
+
+A evolução das câmeras digitais apresentam modelos mais baratos, que armazenam mais imagens por segundo com resoluções cada vez maiores e computadores mais potentes tem permitido que uma nova maneira de interação homem/máquina seja explorada cada vez mais, substituindo ou acrescentando aos antigos mouse, teclado, \textit{joystick}, etc, que durante muito tempo foram os principais meios de interação com o computador.
+
+Esse crescimento dos computadores e câmeras, permitiu que diversas técnicas de visão computacional possam ser utilizadas com o objetivo de criar meios de interação com os computadores mais naturais através de movimentos e gestos.
+
+Sistemas de interação baseados em visão computacional usam apenas câmeras para a capturas das imagens e diversas técnicas de processamento de imagens e reconhecimento de padrões, não usam dispositivos de rastreamento explícitos como roupas especiais, marcadores ou outros dispositivos.
+
+O reconhecimento de gestos têm aplicações em áreas como jogos fisicamente interativos, linguagem de sinais, ambientes virtuais e interação homem/computador.
+
+O Kinect, acessório composto por um conjunto de câmeras, sensores, processadores e microfones, desenvolvido pela Microsoft, foi criado com o objetivo de substituir o \textit{joystick} no último console de jogos criado por ela, o XBox 360, em alguns jogos e é utilizado em outros jogos implementados para serem exclusivamente jogados através do reconhecimento dos gestos dos jogadores. Todo o processamento dos gestos é feito por esse acessório de forma que seja estimado que menos que 3\% a 5\% seja processado no console \cite{InsideKinect}. Esse acessório é um exemplo bem sucedido do reconhecimento de gestos em jogos fisicamente interativos.
+
+O dispositivo custava em torno de R\$ 500,00 quando esse trabalho começou, esse preço não o torna um acessório tão acessível quanto a câmera web que foi utilizada nesse projeto, a PS Eye, câmera da Sony que custou R\$ 80,00 e apresentava uma das melhores resoluções e taxas de capturas entre as concorrentes no mercado (resolução de DVD, $640\times480$ pixels e 60 frames/segundo).
+
+A compreensão dos gestos do usuário pelo computador através de visão computacional envolve diferentes aspectos como, identificação do usuário: o que dentro do raio de visão da câmera deve ser reconhecido e rastreado.
+
+Como as posturas serão reconhecidas e como caracteriza-las para armazenagem de forma eficiente para que enfim seja possível reconhecer uma sequência delas (que por sua vez caracteriza um gesto).
+
+Diferentes e variadas técnicas são empregadas em cada uma das seguintes etapas: segmentação, classificação e identificação. Sendo preciso selecionar a partir de um estudo as técnicas necessárias para serem aplicadas em específico ao trabalho aqui desenvolvido.
+
+O maior problema nestes tipos de sistemas é selecionar quais características serão extraídas das imagens e como efetuar a classificação das posturas de maneira eficiente e em tempo real para reconhecer os gestos que o usuário realiza no espaço em frente à câmera. 
+
+\section{Objetivos}
+
+A proposta deste trabalho tem como principal objetivo o de estabelecer um esquema modular para criar um sistema de captura e reconhecimento dos gestos do usuário que após um processo de tradução e interpretação será responsável por ativar ações de um agente virtual (avatar) que representa o usuário no ambiente virtual. Enfim uma ferramenta que possa ser utilizada em aplicativos fisicamente interativos baseados em princípios de imersão, ou seja, a capacidade de fazer com que o usuário sinta-se `dentro' do ambiente virtual mencionado.
+
+\section{Metodologia}
+
+O reconhecimento da postura do usuário será feita usando visão computacional, de acordo características extraída da silhueta adquirida de uma câmera web. Essa identificação acontecerá por meio de um reconhecimento de padrões de conjuntos dessas características.
+
+Após a identificação das posturas, o reconhecimento dos gestos se dará através de um modelo matemático conhecido na literatura como modelo de Markov oculto (HMM - Hidden Markov Model), que avaliará as sequências de posturas, dizendo qual a probabilidade dessa sequência ser um dos gestos previamente modelados a partir de sequências de treino. Depois de reconhecido um gesto, um comando correspondente será enviado para o avatar no ambiente virtual.
+
+\section{Organização do trabalho}
+
+Esse trabalho é formado por 6 capítulos, descritos conforme a seguir.
+
+O Capítulo 2 apresenta um resumo de alguns trabalhos desenvolvidos no mesmo segmento deste, alguns conceitos básicos de visão computacional, extração de características de interesse em imagens e reconhecimento de posturas e gestos. Uma introdução aos modelos ocultos de Markov, seus parâmetros e topologias e aos algoritmos de Baum-Welch e Viterbi.
+
+O Capítulo 3 explica em detalhes os módulos desse sistema relacionados a visão computacional, são eles; a captura e segmentação das imagens, a extração de características e quantização vetorial, a criação e treinamento das HMMs e a identificação das sequências de símbolos.
+
+O Capítulo 4 descreve como o último módulo, o ambiente virtual e o avatar foram construídos e como o avatar recebe os comandos do módulo de reconhecimento.
+
+No Capítulo 5, veremos como o sistema funciona como um todo, demonstrando resultados de como ele se comportou na prática.
+
+Enfim, no Capítulo 6, são analisadas as conclusões e possibilidades de trabalhos futuros.
+

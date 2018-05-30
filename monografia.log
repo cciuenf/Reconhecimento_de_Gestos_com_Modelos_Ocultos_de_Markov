@@ -1,0 +1,2170 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.30)  30 MAY 2018 14:14
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**monografia.tex
+(./monografia.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 4 language(s) loaded.
+(/usr/share/texmf/tex/latex/abntex/abnt.cls
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Document Class: abnt 2006/09/09 v1.32 Classe abnt (NBR6024, NBR6027, NBR6028, N
+BR14724)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count81
+\calc@Cskip=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count82
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count83
+\c@collectmore=\count84
+\doublecol@number=\count85
+\multicoltolerance=\count86
+\multicolpretolerance=\count87
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen109
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count88
+\c@finalcolumnbadness=\count89
+\last@try=\dimen110
+\multicolovershoot=\dimen111
+\multicolundershoot=\dimen112
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count90
+)
+(/usr/share/texmf/tex/latex/abntex/abntex-abrev.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
+
+(/usr/share/texmf/tex/latex/abntex/nbr10522-1988.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
+88)
+)
+(/usr/share/texmf/tex/latex/abntex/abntex-abrev-pt_BR.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traduca
+o de termos en_US/pt_BR
+))
+(/usr/share/texmf/tex/latex/abntex/abntex-text.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
+
+(/usr/share/texmf/tex/latex/abntex/abntex-text-pt_BR.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Bra
+sil (pt_BR)
+))
+(/usr/share/texmf/tex/latex/abntex/abntex-default-design.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do a
+bntex
+
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+
+
+Package relsize Warning: Failed to get list of defined font sizes.
+(relsize)                Size scaling will attempt arbitrary sizes..
+
+)
+\ABNTanapindent=\skip46
+\ABNTsignwidth=\skip47
+\ABNTsignthickness=\skip48
+\ABNTsignskip=\skip49
+) (/usr/share/texmf/tex/latex/abntex/nbr6027-1989.def)
+(/usr/share/texmf/tex/latex/abntex/nbr14724-2001.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count91
+\c@chapter=\count92
+\c@section=\count93
+\c@subsection=\count94
+\c@subsubsection=\count95
+\c@paragraph=\count96
+\c@subparagraph=\count97
+\c@figure=\count98
+\c@table=\count99
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip52
+\mylen=\skip53
+\myhi=\skip54
+\px=\skip55
+\py=\skip56
+\pyy=\skip57
+\pxx=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip59
+\subfigcapskip=\skip60
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip61
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip62
+\c@subfigure=\count100
+\c@lofdepth=\count101
+\c@subtable=\count102
+\c@lotdepth=\count103
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip63
+\subfig@bottom=\skip64
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen116
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count106
+\Hy@pagecounter=\count107
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count108
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count109
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count110
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count111
+\c@Item=\count112
+\c@Hfootnote=\count113
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count114
+\c@bookmark@seq@number=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip65
+)
+(/usr/share/texmf/tex/latex/abntex/abntcite.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntcite 2006/04/25 v1.30 Chamadas de referencias no texto (NBR10520, 
+NBR10522)
+\minimumbiblabelwidth=\skip66
+\ABCIauxlen=\skip67
+\c@ABCIaux=\count116
+\c@ABCImax=\count117
+
+(/usr/share/texmf/tex/latex/abntex/nbr10520-2002.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: nbr10520-2002.def 2006/04/25 v1.4 Definicoes para abntcite (NBR10520:2002
+)
+)
+\biblabelsep=\skip68
+LaTeX Info: Redefining \newblock on input line 466.
+LaTeX Info: Redefining \cite on input line 493.
+\ABCItoken=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen123
+\lightrulewidth=\dimen124
+\cmidrulewidth=\dimen125
+\belowrulesep=\dimen126
+\belowbottomsep=\dimen127
+\aboverulesep=\dimen128
+\abovetopsep=\dimen129
+\cmidrulesep=\dimen130
+\cmidrulekern=\dimen131
+\defaultaddspace=\dimen132
+\@cmidla=\count118
+\@cmidlb=\count119
+\@aboverulesep=\dimen133
+\@belowrulesep=\dimen134
+\@thisruleclass=\count120
+\@lastruleclass=\count121
+\@thisrulewidth=\dimen135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) (./nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen136
+\nom@tempdim=\dimen137
+\nomitemsep=\skip69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip70
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen138
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count122
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count123
+\leftroot@=\count124
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count125
+\DOTSCASE@=\count126
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count127
+\c@MaxMatrixCols=\count128
+\dotsspace@=\muskip11
+\c@parentequation=\count129
+\dspbrk@lvl=\count130
+\tag@help=\toks19
+\row@=\count131
+\column@=\count132
+\maxfields@=\count133
+\andhelp@=\toks20
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks21
+\multlinegap=\skip71
+\multlinetaggap=\skip72
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+\@nomenclaturefile=\write3
+\openout3 = `monografia.nlo'.
+
+
+Writing nomenclature file monografia.nlo
+(./monografia.aux)
+\openout1 = `monografia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 51.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen147
+\scratchbox=\box54
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen148
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring OFF on input line 51.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count140
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+(./monografia.out) (./monografia.out)
+\@outlinefile=\write4
+\openout4 = `monografia.out'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 61.
+ [0
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 1394) in paragraph at lines 62--62
+\OT1/cmr/m/n/12 ver-si-dade Es-ta-dual do Norte Flu-mi-nense
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 62.
+[1] (./tex/folha_de_aprovacao.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \end{folhadeaprovacao}
+                            [1
+
+]) (./tex/resumo.tex
+Overfull \hbox (3.60114pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/bx/n/12 Palavras-chave:  \OT1/cmr/m/n/12 Mo-de-los Ocul-tos de Mar-k
+ov, Am-bi-ente Vir-tual, In-tera^^Xc~ao Humano-
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+[2
+
+
+
+]) (./tex/abstract.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+ [3
+
+
+]) (./monografia.toc
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+ [4
+
+])
+\tf@toc=\write5
+\openout5 = `monografia.toc'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 68.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 68.
+ [5] (./monografia.lof
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+
+[6
+
+
+])
+\tf@lof=\write6
+\openout6 = `monografia.lof'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+ [7] (./monografia.lot)
+\tf@lot=\write7
+\openout7 = `monografia.lot'.
+
+ (./monografia.nls) (./tex/introducao.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [8
+
+]
+Cap\'{\i }tulo 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+[9
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 23.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 30.
+ [10]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 33.
+) (./tex/reconhecimento.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [11]
+Cap\'{\i }tulo 2.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 21.
+[12
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 27.
+
+
+Overfull \hbox (7.52232pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 Truyenque ([]TRUYEN-QUE[], []2005[]) em sua tese de mes-trado
+, im-ple-men-tou uma aplica^^Xc~ao
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+[13]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 47.
+ [14]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 62.
+ [15]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 73.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 79.
+ [16]
+<imagens/HMM_exemplo.jpg, id=368, 635.37375pt x 624.3325pt>
+File: imagens/HMM_exemplo.jpg Graphic file (type jpg)
+
+<use imagens/HMM_exemplo.jpg>
+Package pdftex.def Info: imagens/HMM_exemplo.jpg used on input line 94.
+(pdftex.def)             Requested size: 254.14499pt x 249.72858pt.
+
+<imagens/ergodic_HMM.jpg, id=370, 364.36125pt x 253.94875pt>
+File: imagens/ergodic_HMM.jpg Graphic file (type jpg)
+
+<use imagens/ergodic_HMM.jpg>
+Package pdftex.def Info: imagens/ergodic_HMM.jpg used on input line 111.
+(pdftex.def)             Requested size: 142.26378pt x 99.15198pt.
+
+<imagens/LR_HMM.jpg, id=371, 591.20876pt x 220.825pt>
+File: imagens/LR_HMM.jpg Graphic file (type jpg)
+ <use imagens/LR_HMM.jpg>
+Package pdftex.def Info: imagens/LR_HMM.jpg used on input line 112.
+(pdftex.def)             Requested size: 199.16928pt x 74.39212pt.
+
+<imagens/LRB_HMM.jpg, id=372, 591.20876pt x 178.6675pt>
+File: imagens/LRB_HMM.jpg Graphic file (type jpg)
+
+<use imagens/LRB_HMM.jpg>
+Package pdftex.def Info: imagens/LRB_HMM.jpg used on input line 113.
+(pdftex.def)             Requested size: 199.16928pt x 60.18999pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+ [17]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 119.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 119.
+ [18 <./imagens/HMM_exemplo.jpg> <./imagens/ergodic_HMM.jpg> <./imagens/LR_HMM.
+jpg> <./imagens/LRB_HMM.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 129.
+
+Overfull \hbox (1.71318pt too wide) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 acon-tece quando duas sequ^encias apre-sen-tam a mesma pro-ba-b
+i-li-dade. Mai-o-res in-forma^^Xc~oes
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+[19]) (./tex/gestos.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [20]
+Cap\'{\i }tulo 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+<imagens/diagrama_do_sistema.jpg, id=410, 1026.83624pt x 1358.07375pt>
+File: imagens/diagrama_do_sistema.jpg Graphic file (type jpg)
+
+<use imagens/diagrama_do_sistema.jpg>
+Package pdftex.def Info: imagens/diagrama_do_sistema.jpg used on input line 12.
+
+(pdftex.def)             Requested size: 410.72722pt x 543.21988pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+ [21
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+ [22 <./imagens/diagrama_do_sistema.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+ [23]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 41.
+ <imagens/fundo.jpg, id=434, 642.4pt x 481.8pt>
+File: imagens/fundo.jpg Graphic file (type jpg)
+
+<use imagens/fundo.jpg>
+Package pdftex.def Info: imagens/fundo.jpg used on input line 50.
+(pdftex.def)             Requested size: 142.26378pt x 106.69473pt.
+ <imagens/frame.jpg, id=435, 642.4pt x 481.8pt>
+File: imagens/frame.jpg Graphic file (type jpg)
+
+<use imagens/frame.jpg>
+Package pdftex.def Info: imagens/frame.jpg used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 106.69473pt.
+
+<imagens/mascara.jpg, id=436, 644.4075pt x 482.80376pt>
+File: imagens/mascara.jpg Graphic file (type jpg)
+
+<use imagens/mascara.jpg>
+Package pdftex.def Info: imagens/mascara.jpg used on input line 54.
+(pdftex.def)             Requested size: 142.26378pt x 106.5855pt.
+ <imagens/binario.jpg, id=437, 642.4pt x 481.8pt>
+File: imagens/binario.jpg Graphic file (type jpg)
+
+<use imagens/binario.jpg>
+Package pdftex.def Info: imagens/binario.jpg used on input line 56.
+(pdftex.def)             Requested size: 142.26378pt x 106.69473pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 63.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 66.
+ [24 <./imagens/fundo.jpg> <./imagens/frame.jpg> <./imagens/mascara.jpg> <./ima
+gens/binario.jpg>]
+<imagens/arms_up.jpg, id=447, 643.40375pt x 478.78876pt>
+File: imagens/arms_up.jpg Graphic file (type jpg)
+
+<use imagens/arms_up.jpg>
+Package pdftex.def Info: imagens/arms_up.jpg used on input line 72.
+(pdftex.def)             Requested size: 142.26378pt x 105.86716pt.
+ <imagens/no_gauss.jpg, id=448, 642.4pt x 481.8pt>
+File: imagens/no_gauss.jpg Graphic file (type jpg)
+
+<use imagens/no_gauss.jpg>
+Package pdftex.def Info: imagens/no_gauss.jpg used on input line 73.
+(pdftex.def)             Requested size: 142.26378pt x 106.69473pt.
+ <imagens/gauss.jpg, id=449, 642.4pt x 481.8pt>
+File: imagens/gauss.jpg Graphic file (type jpg)
+
+<use imagens/gauss.jpg>
+Package pdftex.def Info: imagens/gauss.jpg used on input line 74.
+(pdftex.def)             Requested size: 142.26378pt x 106.69473pt.
+File: imagens/arms_up.jpg Graphic file (type jpg)
+ <use imagens/arms_up.jpg>
+Package pdftex.def Info: imagens/arms_up.jpg used on input line 84.
+(pdftex.def)             Requested size: 142.26378pt x 105.86716pt.
+
+<imagens/dilate.jpg, id=451, 641.39626pt x 481.8pt>
+File: imagens/dilate.jpg Graphic file (type jpg)
+ <use imagens/dilate.jpg>
+Package pdftex.def Info: imagens/dilate.jpg used on input line 85.
+(pdftex.def)             Requested size: 142.26378pt x 106.86382pt.
+
+<imagens/erode.jpg, id=452, 616.3025pt x 461.725pt>
+File: imagens/erode.jpg Graphic file (type jpg)
+ <use imagens/erode.jpg>
+Package pdftex.def Info: imagens/erode.jpg used on input line 86.
+(pdftex.def)             Requested size: 142.26378pt x 106.582pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+
+[25 <./imagens/arms_up.jpg> <./imagens/no_gauss.jpg> <./imagens/gauss.jpg>]
+<imagens/maior_forma.jpg, id=462, 514.92375pt x 483.8075pt>
+File: imagens/maior_forma.jpg Graphic file (type jpg)
+
+<use imagens/maior_forma.jpg>
+Package pdftex.def Info: imagens/maior_forma.jpg used on input line 99.
+(pdftex.def)             Requested size: 128.73062pt x 120.95157pt.
+
+<imagens/maior_forma_2.jpg, id=463, 182.6825pt x 367.3725pt>
+File: imagens/maior_forma_2.jpg Graphic file (type jpg)
+
+<use imagens/maior_forma_2.jpg>
+Package pdftex.def Info: imagens/maior_forma_2.jpg used on input line 100.
+(pdftex.def)             Requested size: 45.6705pt x 91.8429pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 111.
+ [26 <./imagens/dilate.jpg> <./imagens/erode.jpg> <./imagens/maior_forma.jpg> <
+./imagens/maior_forma_2.jpg>]
+<imagens/malha.jpg, id=477, 143.53625pt x 359.3425pt>
+File: imagens/malha.jpg Graphic file (type jpg)
+ <use imagens/malha.jpg>
+Package pdftex.def Info: imagens/malha.jpg used on input line 120.
+(pdftex.def)             Requested size: 57.41347pt x 143.73445pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 138.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+
+[27 <./imagens/malha.jpg>]
+Overfull \hbox (0.19421pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 n^^Sumero do clus-ter (tamb^^Sem cha-mado de ^^S^^Pndice centr^
+^Soide ou ^^S^^Pndice do cen-tro mais pr^^Soximo)
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 145.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 145.
+[28] <imagens/codeword_parado.jpg, id=495, 326.21875pt x 402.50375pt>
+File: imagens/codeword_parado.jpg Graphic file (type jpg)
+
+<use imagens/codeword_parado.jpg>
+Package pdftex.def Info: imagens/codeword_parado.jpg used on input line 191.
+(pdftex.def)             Requested size: 75.02873pt x 92.57391pt.
+
+<imagens/codewords_passo_direita_1.jpg, id=496, 287.0725pt x 407.5225pt>
+File: imagens/codewords_passo_direita_1.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_direita_1.jpg>
+Package pdftex.def Info: imagens/codewords_passo_direita_1.jpg used on input li
+ne 195.
+(pdftex.def)             Requested size: 66.02528pt x 93.7282pt.
+
+<imagens/codewords_passo_direita_2.jpg, id=497, 289.08pt x 410.53375pt>
+File: imagens/codewords_passo_direita_2.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_direita_2.jpg>
+Package pdftex.def Info: imagens/codewords_passo_direita_2.jpg used on input li
+ne 196.
+(pdftex.def)             Requested size: 66.487pt x 94.42078pt.
+
+<imagens/codewords_passo_direita_3.jpg, id=498, 284.06125pt x 408.52625pt>
+File: imagens/codewords_passo_direita_3.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_direita_3.jpg>
+Package pdftex.def Info: imagens/codewords_passo_direita_3.jpg used on input li
+ne 197.
+(pdftex.def)             Requested size: 65.3327pt x 93.95906pt.
+
+<imagens/codewords_passo_direita_4.jpg, id=499, 279.0425pt x 407.5225pt>
+File: imagens/codewords_passo_direita_4.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_direita_4.jpg>
+Package pdftex.def Info: imagens/codewords_passo_direita_4.jpg used on input li
+ne 198.
+(pdftex.def)             Requested size: 64.17842pt x 93.7282pt.
+
+<imagens/codewords_passo_esquerda_1.jpg, id=500, 289.08pt x 414.54875pt>
+File: imagens/codewords_passo_esquerda_1.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_esquerda_1.jpg>
+Package pdftex.def Info: imagens/codewords_passo_esquerda_1.jpg used on input l
+ine 202.
+(pdftex.def)             Requested size: 66.487pt x 95.3442pt.
+
+<imagens/codewords_passo_esquerda_2.jpg, id=501, 285.065pt x 413.545pt>
+File: imagens/codewords_passo_esquerda_2.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_esquerda_2.jpg>
+Package pdftex.def Info: imagens/codewords_passo_esquerda_2.jpg used on input l
+ine 203.
+(pdftex.def)             Requested size: 65.56357pt x 95.11334pt.
+
+<imagens/codewords_passo_esquerda_3.jpg, id=502, 284.06125pt x 413.545pt>
+File: imagens/codewords_passo_esquerda_3.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_esquerda_3.jpg>
+Package pdftex.def Info: imagens/codewords_passo_esquerda_3.jpg used on input l
+ine 204.
+(pdftex.def)             Requested size: 65.3327pt x 95.11334pt.
+
+<imagens/codewords_passo_esquerda_4.jpg, id=503, 281.05pt x 414.54875pt>
+File: imagens/codewords_passo_esquerda_4.jpg Graphic file (type jpg)
+
+<use imagens/codewords_passo_esquerda_4.jpg>
+Package pdftex.def Info: imagens/codewords_passo_esquerda_4.jpg used on input l
+ine 205.
+(pdftex.def)             Requested size: 64.64014pt x 95.3442pt.
+
+<imagens/codewords_braco_direito_1.jpg, id=504, 287.0725pt x 398.48875pt>
+File: imagens/codewords_braco_direito_1.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_direito_1.jpg>
+Package pdftex.def Info: imagens/codewords_braco_direito_1.jpg used on input li
+ne 209.
+(pdftex.def)             Requested size: 66.02528pt x 91.65048pt.
+
+<imagens/codewords_braco_direito_2.jpg, id=505, 283.0575pt x 399.4925pt>
+File: imagens/codewords_braco_direito_2.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_direito_2.jpg>
+Package pdftex.def Info: imagens/codewords_braco_direito_2.jpg used on input li
+ne 210.
+(pdftex.def)             Requested size: 65.10185pt x 91.88133pt.
+
+<imagens/codewords_braco_direito_3.jpg, id=506, 290.08376pt x 398.48875pt>
+File: imagens/codewords_braco_direito_3.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_direito_3.jpg>
+Package pdftex.def Info: imagens/codewords_braco_direito_3.jpg used on input li
+ne 211.
+(pdftex.def)             Requested size: 66.71785pt x 91.65048pt.
+
+<imagens/codewords_braco_direito_4.jpg, id=507, 286.06876pt x 399.4925pt>
+File: imagens/codewords_braco_direito_4.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_direito_4.jpg>
+Package pdftex.def Info: imagens/codewords_braco_direito_4.jpg used on input li
+ne 212.
+(pdftex.def)             Requested size: 65.79442pt x 91.88133pt.
+
+<imagens/codewords_braco_esquerdo_1.jpg, id=508, 288.07625pt x 402.50375pt>
+File: imagens/codewords_braco_esquerdo_1.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_esquerdo_1.jpg>
+Package pdftex.def Info: imagens/codewords_braco_esquerdo_1.jpg used on input l
+ine 216.
+(pdftex.def)             Requested size: 66.25613pt x 92.57391pt.
+
+<imagens/codewords_braco_esquerdo_2.jpg, id=509, 289.08pt x 399.4925pt>
+File: imagens/codewords_braco_esquerdo_2.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_esquerdo_2.jpg>
+Package pdftex.def Info: imagens/codewords_braco_esquerdo_2.jpg used on input l
+ine 217.
+(pdftex.def)             Requested size: 66.487pt x 91.88133pt.
+
+<imagens/codewords_braco_esquerdo_3.jpg, id=510, 288.07625pt x 403.5075pt>
+File: imagens/codewords_braco_esquerdo_3.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_esquerdo_3.jpg>
+Package pdftex.def Info: imagens/codewords_braco_esquerdo_3.jpg used on input l
+ine 218.
+(pdftex.def)             Requested size: 66.25613pt x 92.80476pt.
+
+<imagens/codewords_braco_esquerdo_4.jpg, id=511, 286.06876pt x 403.5075pt>
+File: imagens/codewords_braco_esquerdo_4.jpg Graphic file (type jpg)
+
+<use imagens/codewords_braco_esquerdo_4.jpg>
+Package pdftex.def Info: imagens/codewords_braco_esquerdo_4.jpg used on input l
+ine 219.
+(pdftex.def)             Requested size: 65.79442pt x 92.80476pt.
+
+<imagens/codewords_2_bracos_1.jpg, id=512, 287.0725pt x 371.3875pt>
+File: imagens/codewords_2_bracos_1.jpg Graphic file (type jpg)
+
+<use imagens/codewords_2_bracos_1.jpg>
+Package pdftex.def Info: imagens/codewords_2_bracos_1.jpg used on input line 22
+3.
+(pdftex.def)             Requested size: 66.02528pt x 85.41731pt.
+
+<imagens/codewords_2_bracos_2.jpg, id=513, 377.41pt x 406.51875pt>
+File: imagens/codewords_2_bracos_2.jpg Graphic file (type jpg)
+
+<use imagens/codewords_2_bracos_2.jpg>
+Package pdftex.def Info: imagens/codewords_2_bracos_2.jpg used on input line 22
+4.
+(pdftex.def)             Requested size: 86.80246pt x 93.49733pt.
+
+<imagens/codewords_2_bracos_3.jpg, id=514, 377.41pt x 404.51125pt>
+File: imagens/codewords_2_bracos_3.jpg Graphic file (type jpg)
+
+<use imagens/codewords_2_bracos_3.jpg>
+Package pdftex.def Info: imagens/codewords_2_bracos_3.jpg used on input line 22
+5.
+(pdftex.def)             Requested size: 86.80246pt x 93.03563pt.
+
+<imagens/codewords_2_bracos_4.jpg, id=515, 379.4175pt x 399.4925pt>
+File: imagens/codewords_2_bracos_4.jpg Graphic file (type jpg)
+
+<use imagens/codewords_2_bracos_4.jpg>
+Package pdftex.def Info: imagens/codewords_2_bracos_4.jpg used on input line 22
+6.
+(pdftex.def)             Requested size: 87.26418pt x 91.88133pt.
+
+Overfull \hbox (7.33281pt too wide) in paragraph at lines 189--231
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 33.09622pt on input line 233.
+
+<imagens/exemplo_vq_4.jpg, id=516, 1263.72125pt x 407.5225pt>
+File: imagens/exemplo_vq_4.jpg Graphic file (type jpg)
+
+<use imagens/exemplo_vq_4.jpg>
+Package pdftex.def Info: imagens/exemplo_vq_4.jpg used on input line 237.
+(pdftex.def)             Requested size: 341.43306pt x 110.10716pt.
+
+<imagens/exemplo_vq_20.jpg, id=517, 1939.245pt x 479.7925pt>
+File: imagens/exemplo_vq_20.jpg Graphic file (type jpg)
+
+<use imagens/exemplo_vq_20.jpg>
+Package pdftex.def Info: imagens/exemplo_vq_20.jpg used on input line 239.
+(pdftex.def)             Requested size: 341.43306pt x 84.4701pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 245.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+ [29]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+ [30]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+ [31 <./imagens/codeword_parado.jpg> <./imagens/codewords_passo_direita_1.jpg> 
+<./imagens/codewords_passo_direita_2.jpg> <./imagens/codewords_passo_direita_3.
+jpg> <./imagens/codewords_passo_direita_4.jpg> <./imagens/codewords_passo_esque
+rda_1.jpg> <./imagens/codewords_passo_esquerda_2.jpg> <./imagens/codewords_pass
+o_esquerda_3.jpg> <./imagens/codewords_passo_esquerda_4.jpg> <./imagens/codewor
+ds_braco_direito_1.jpg> <./imagens/codewords_braco_direito_2.jpg> <./imagens/co
+dewords_braco_direito_3.jpg> <./imagens/codewords_braco_direito_4.jpg> <./image
+ns/codewords_braco_esquerdo_1.jpg> <./imagens/codewords_braco_esquerdo_2.jpg> <
+./imagens/codewords_braco_esquerdo_3.jpg> <./imagens/codewords_braco_esquerdo_4
+.jpg> <./imagens/codewords_2_bracos_1.jpg> <./imagens/codewords_2_bracos_2.jpg>
+ <./imagens/codewords_2_bracos_3.jpg> <./imagens/codewords_2_bracos_4.jpg>]
+<imagens/HMM_sistema.jpg, id=559, 800.9925pt x 209.78375pt>
+File: imagens/HMM_sistema.jpg Graphic file (type jpg)
+
+<use imagens/HMM_sistema.jpg>
+Package pdftex.def Info: imagens/HMM_sistema.jpg used on input line 263.
+(pdftex.def)             Requested size: 320.39133pt x 83.912pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 269.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 269.
+ [32 <./imagens/exemplo_vq_4.jpg> <./imagens/exemplo_vq_20.jpg>]
+<imagens/HMM_antes_treino.jpg, id=576, 1041.8925pt x 460.72125pt>
+File: imagens/HMM_antes_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_antes_treino.jpg>
+Package pdftex.def Info: imagens/HMM_antes_treino.jpg used on input line 296.
+(pdftex.def)             Requested size: 416.74962pt x 184.28523pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 300.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 303.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 303.
+ [33 <./imagens/HMM_sistema.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 310.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 310.
+ [34 <./imagens/HMM_antes_treino.jpg>]
+<imagens/HMM_1_ideal.jpg, id=589, 773.89125pt x 367.3725pt>
+File: imagens/HMM_1_ideal.jpg Graphic file (type jpg)
+
+<use imagens/HMM_1_ideal.jpg>
+Package pdftex.def Info: imagens/HMM_1_ideal.jpg used on input line 313.
+(pdftex.def)             Requested size: 270.866pt x 128.58229pt.
+
+<imagens/HMM_5_apos_treino.jpg, id=596, 826.08624pt x 425.59pt>
+File: imagens/HMM_5_apos_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_5_apos_treino.jpg>
+Package pdftex.def Info: imagens/HMM_5_apos_treino.jpg used on input line 327.
+(pdftex.def)             Requested size: 289.1345pt x 148.95872pt.
+
+<imagens/HMM_4_apos_treino.jpg, id=597, 829.0975pt x 463.7325pt>
+File: imagens/HMM_4_apos_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_4_apos_treino.jpg>
+Package pdftex.def Info: imagens/HMM_4_apos_treino.jpg used on input line 334.
+(pdftex.def)             Requested size: 290.18848pt x 162.30879pt.
+
+<imagens/HMM_3_apos_treino.jpg, id=598, 832.10875pt x 477.785pt>
+File: imagens/HMM_3_apos_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_3_apos_treino.jpg>
+Package pdftex.def Info: imagens/HMM_3_apos_treino.jpg used on input line 341.
+(pdftex.def)             Requested size: 291.24242pt x 167.22725pt.
+
+<imagens/HMM_1_apos_treino.jpg, id=599, 824.07875pt x 443.6575pt>
+File: imagens/HMM_1_apos_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_1_apos_treino.jpg>
+Package pdftex.def Info: imagens/HMM_1_apos_treino.jpg used on input line 348.
+(pdftex.def)             Requested size: 288.43188pt x 155.28244pt.
+
+<imagens/HMM_2_apos_treino.jpg, id=600, 1028.84375pt x 477.785pt>
+File: imagens/HMM_2_apos_treino.jpg Graphic file (type jpg)
+
+<use imagens/HMM_2_apos_treino.jpg>
+Package pdftex.def Info: imagens/HMM_2_apos_treino.jpg used on input line 355.
+(pdftex.def)             Requested size: 360.10071pt x 167.22725pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 360.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+ [35 <./imagens/HMM_1_ideal.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+ [36 <./imagens/HMM_5_apos_treino.jpg> <./imagens/HMM_4_apos_treino.jpg> <./ima
+gens/HMM_3_apos_treino.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+ [37 <./imagens/HMM_1_apos_treino.jpg> <./imagens/HMM_2_apos_treino.jpg>]) (./t
+ex/interacao.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [38]
+Cap\'{\i }tulo 4.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+<imagens/ambiente_virtual.jpg, id=625, 644.4075pt x 483.8075pt>
+File: imagens/ambiente_virtual.jpg Graphic file (type jpg)
+
+<use imagens/ambiente_virtual.jpg>
+Package pdftex.def Info: imagens/ambiente_virtual.jpg used on input line 17.
+(pdftex.def)             Requested size: 257.75844pt x 193.51956pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+ [39
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 23.
+
+<imagens/armature_1.jpg, id=636, 195.73125pt x 236.885pt>
+File: imagens/armature_1.jpg Graphic file (type jpg)
+
+<use imagens/armature_1.jpg>
+Package pdftex.def Info: imagens/armature_1.jpg used on input line 33.
+(pdftex.def)             Requested size: 113.81102pt x 137.74039pt.
+
+<imagens/armature_15.jpg, id=637, 196.735pt x 237.88875pt>
+File: imagens/armature_15.jpg Graphic file (type jpg)
+
+<use imagens/armature_15.jpg>
+Package pdftex.def Info: imagens/armature_15.jpg used on input line 34.
+(pdftex.def)             Requested size: 113.81102pt x 137.6162pt.
+File: imagens/armature_1.jpg Graphic file (type jpg)
+ <use imagens/armature_1.jpg>
+Package pdftex.def Info: imagens/armature_1.jpg used on input line 35.
+(pdftex.def)             Requested size: 113.81102pt x 137.74039pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 40.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+ [40 <./imagens/ambiente_virtual.jpg>]
+<imagens/fundo_ambiente_virtual.jpg, id=645, 642.4pt x 481.8pt>
+File: imagens/fundo_ambiente_virtual.jpg Graphic file (type jpg)
+
+<use imagens/fundo_ambiente_virtual.jpg>
+Package pdftex.def Info: imagens/fundo_ambiente_virtual.jpg used on input line 
+52.
+(pdftex.def)             Requested size: 160.59961pt x 120.44969pt.
+
+<imagens/standing_animation_1.jpg, id=646, 96.36pt x 285.065pt>
+File: imagens/standing_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/standing_animation_1.jpg>
+Package pdftex.def Info: imagens/standing_animation_1.jpg used on input line 61
+.
+(pdftex.def)             Requested size: 24.08994pt x 71.26607pt.
+
+<imagens/standing_animation_2.jpg, id=647, 101.37875pt x 286.06876pt>
+File: imagens/standing_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/standing_animation_2.jpg>
+Package pdftex.def Info: imagens/standing_animation_2.jpg used on input line 62
+.
+(pdftex.def)             Requested size: 25.34462pt x 71.51701pt.
+
+<imagens/standing_animation_3.jpg, id=648, 89.33376pt x 286.06876pt>
+File: imagens/standing_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/standing_animation_3.jpg>
+Package pdftex.def Info: imagens/standing_animation_3.jpg used on input line 63
+.
+(pdftex.def)             Requested size: 22.33337pt x 71.51701pt.
+
+<imagens/standing_animation_4.jpg, id=649, 86.3225pt x 286.06876pt>
+File: imagens/standing_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/standing_animation_4.jpg>
+Package pdftex.def Info: imagens/standing_animation_4.jpg used on input line 64
+.
+(pdftex.def)             Requested size: 21.58057pt x 71.51701pt.
+
+<imagens/walk_left_animation_1.jpg, id=650, 138.5175pt x 284.06125pt>
+File: imagens/walk_left_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/walk_left_animation_1.jpg>
+Package pdftex.def Info: imagens/walk_left_animation_1.jpg used on input line 6
+7.
+(pdftex.def)             Requested size: 34.62929pt x 71.01512pt.
+
+<imagens/walk_left_animation_2.jpg, id=651, 103.38625pt x 283.0575pt>
+File: imagens/walk_left_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/walk_left_animation_2.jpg>
+Package pdftex.def Info: imagens/walk_left_animation_2.jpg used on input line 6
+8.
+(pdftex.def)             Requested size: 25.8465pt x 70.76419pt.
+
+<imagens/walk_left_animation_3.jpg, id=652, 69.25874pt x 285.065pt>
+File: imagens/walk_left_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/walk_left_animation_3.jpg>
+Package pdftex.def Info: imagens/walk_left_animation_3.jpg used on input line 6
+9.
+(pdftex.def)             Requested size: 17.31464pt x 71.26607pt.
+
+<imagens/walk_left_animation_4.jpg, id=653, 133.49875pt x 285.065pt>
+File: imagens/walk_left_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/walk_left_animation_4.jpg>
+Package pdftex.def Info: imagens/walk_left_animation_4.jpg used on input line 7
+0.
+(pdftex.def)             Requested size: 33.37459pt x 71.26607pt.
+
+<imagens/walk_right_animation_1.jpg, id=654, 133.49875pt x 284.06125pt>
+File: imagens/walk_right_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/walk_right_animation_1.jpg>
+Package pdftex.def Info: imagens/walk_right_animation_1.jpg used on input line 
+72.
+(pdftex.def)             Requested size: 33.37459pt x 71.01512pt.
+
+<imagens/walk_right_animation_2.jpg, id=655, 119.44624pt x 284.06125pt>
+File: imagens/walk_right_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/walk_right_animation_2.jpg>
+Package pdftex.def Info: imagens/walk_right_animation_2.jpg used on input line 
+73.
+(pdftex.def)             Requested size: 29.86148pt x 71.01512pt.
+
+<imagens/walk_right_animation_3.jpg, id=656, 85.31876pt x 285.065pt>
+File: imagens/walk_right_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/walk_right_animation_3.jpg>
+Package pdftex.def Info: imagens/walk_right_animation_3.jpg used on input line 
+74.
+(pdftex.def)             Requested size: 21.32962pt x 71.26607pt.
+
+<imagens/walk_right_animation_4.jpg, id=657, 144.54pt x 284.06125pt>
+File: imagens/walk_right_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/walk_right_animation_4.jpg>
+Package pdftex.def Info: imagens/walk_right_animation_4.jpg used on input line 
+75.
+(pdftex.def)             Requested size: 36.1349pt x 71.01512pt.
+
+<imagens/right_arm_up_animation_1.jpg, id=658, 84.315pt x 284.06125pt>
+File: imagens/right_arm_up_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/right_arm_up_animation_1.jpg>
+Package pdftex.def Info: imagens/right_arm_up_animation_1.jpg used on input lin
+e 77.
+(pdftex.def)             Requested size: 21.07869pt x 71.01512pt.
+
+<imagens/right_arm_up_animation_2.jpg, id=659, 106.3975pt x 283.0575pt>
+File: imagens/right_arm_up_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/right_arm_up_animation_2.jpg>
+Package pdftex.def Info: imagens/right_arm_up_animation_2.jpg used on input lin
+e 78.
+(pdftex.def)             Requested size: 26.5993pt x 70.76419pt.
+
+<imagens/right_arm_up_animation_3.jpg, id=660, 149.55875pt x 284.06125pt>
+File: imagens/right_arm_up_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/right_arm_up_animation_3.jpg>
+Package pdftex.def Info: imagens/right_arm_up_animation_3.jpg used on input lin
+e 79.
+(pdftex.def)             Requested size: 37.38959pt x 71.01512pt.
+
+<imagens/right_arm_up_animation_4.jpg, id=661, 164.615pt x 284.06125pt>
+File: imagens/right_arm_up_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/right_arm_up_animation_4.jpg>
+Package pdftex.def Info: imagens/right_arm_up_animation_4.jpg used on input lin
+e 80.
+(pdftex.def)             Requested size: 41.15364pt x 71.01512pt.
+
+<imagens/left_arm_up_animation_1.jpg, id=662, 89.33376pt x 288.07625pt>
+File: imagens/left_arm_up_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/left_arm_up_animation_1.jpg>
+Package pdftex.def Info: imagens/left_arm_up_animation_1.jpg used on input line
+ 82.
+(pdftex.def)             Requested size: 22.33337pt x 72.01888pt.
+
+<imagens/left_arm_up_animation_2.jpg, id=663, 111.41624pt x 286.06876pt>
+File: imagens/left_arm_up_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/left_arm_up_animation_2.jpg>
+Package pdftex.def Info: imagens/left_arm_up_animation_2.jpg used on input line
+ 83.
+(pdftex.def)             Requested size: 27.85399pt x 71.51701pt.
+
+<imagens/left_arm_up_animation_3.jpg, id=664, 146.5475pt x 287.0725pt>
+File: imagens/left_arm_up_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/left_arm_up_animation_3.jpg>
+Package pdftex.def Info: imagens/left_arm_up_animation_3.jpg used on input line
+ 84.
+(pdftex.def)             Requested size: 36.63678pt x 71.76794pt.
+
+<imagens/left_arm_up_animation_4.jpg, id=665, 158.5925pt x 286.06876pt>
+File: imagens/left_arm_up_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/left_arm_up_animation_4.jpg>
+Package pdftex.def Info: imagens/left_arm_up_animation_4.jpg used on input line
+ 85.
+(pdftex.def)             Requested size: 39.64801pt x 71.51701pt.
+
+<imagens/both_arms_up_animation_1.jpg, id=666, 96.36pt x 287.0725pt>
+File: imagens/both_arms_up_animation_1.jpg Graphic file (type jpg)
+
+<use imagens/both_arms_up_animation_1.jpg>
+Package pdftex.def Info: imagens/both_arms_up_animation_1.jpg used on input lin
+e 87.
+(pdftex.def)             Requested size: 24.08994pt x 71.76794pt.
+
+<imagens/both_arms_up_animation_2.jpg, id=667, 143.53625pt x 287.0725pt>
+File: imagens/both_arms_up_animation_2.jpg Graphic file (type jpg)
+
+<use imagens/both_arms_up_animation_2.jpg>
+Package pdftex.def Info: imagens/both_arms_up_animation_2.jpg used on input lin
+e 88.
+(pdftex.def)             Requested size: 35.88397pt x 71.76794pt.
+
+<imagens/both_arms_up_animation_3.jpg, id=668, 218.8175pt x 286.06876pt>
+File: imagens/both_arms_up_animation_3.jpg Graphic file (type jpg)
+
+<use imagens/both_arms_up_animation_3.jpg>
+Package pdftex.def Info: imagens/both_arms_up_animation_3.jpg used on input lin
+e 89.
+(pdftex.def)             Requested size: 54.70424pt x 71.51701pt.
+
+<imagens/both_arms_up_animation_4.jpg, id=669, 240.9pt x 286.06876pt>
+File: imagens/both_arms_up_animation_4.jpg Graphic file (type jpg)
+
+<use imagens/both_arms_up_animation_4.jpg>
+Package pdftex.def Info: imagens/both_arms_up_animation_4.jpg used on input lin
+e 90.
+(pdftex.def)             Requested size: 60.22484pt x 71.51701pt.
+) (./tex/resultados.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [41 <./imagens/armature_1.jpg> <./imagens/armature_15.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [42 <./imagens/fundo_ambiente_virtual.jpg> <./imagens/standing_animation_1.jpg
+> <./imagens/standing_animation_2.jpg> <./imagens/standing_animation_3.jpg> <./
+imagens/standing_animation_4.jpg> <./imagens/walk_left_animation_1.jpg> <./imag
+ens/walk_left_animation_2.jpg> <./imagens/walk_left_animation_3.jpg> <./imagens
+/walk_left_animation_4.jpg> <./imagens/walk_right_animation_1.jpg> <./imagens/w
+alk_right_animation_2.jpg> <./imagens/walk_right_animation_3.jpg> <./imagens/wa
+lk_right_animation_4.jpg> <./imagens/right_arm_up_animation_1.jpg> <./imagens/r
+ight_arm_up_animation_2.jpg> <./imagens/right_arm_up_animation_3.jpg> <./imagen
+s/right_arm_up_animation_4.jpg> <./imagens/left_arm_up_animation_1.jpg> <./imag
+ens/left_arm_up_animation_2.jpg> <./imagens/left_arm_up_animation_3.jpg> <./ima
+gens/left_arm_up_animation_4.jpg> <./imagens/both_arms_up_animation_1.jpg> <./i
+magens/both_arms_up_animation_2.jpg> <./imagens/both_arms_up_animation_3.jpg> <
+./imagens/both_arms_up_animation_4.jpg>]
+Cap\'{\i }tulo 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+[43
+
+] <imagens/sistema_1.jpg, id=716, 1322.9425pt x 670.505pt>
+File: imagens/sistema_1.jpg Graphic file (type jpg)
+
+<use imagens/sistema_1.jpg>
+Package pdftex.def Info: imagens/sistema_1.jpg used on input line 15.
+(pdftex.def)             Requested size: 463.03682pt x 234.68027pt.
+
+Overfull \hbox (7.79271pt too wide) in paragraph at lines 15--16
+[][] 
+ []
+
+<imagens/sistema_2.jpg, id=717, 1324.95pt x 673.51625pt>
+File: imagens/sistema_2.jpg Graphic file (type jpg)
+
+<use imagens/sistema_2.jpg>
+Package pdftex.def Info: imagens/sistema_2.jpg used on input line 21.
+(pdftex.def)             Requested size: 463.73946pt x 235.7342pt.
+
+Overfull \hbox (8.49535pt too wide) in paragraph at lines 21--22
+[][] 
+ []
+
+<imagens/sistema_3.jpg, id=718, 1320.935pt x 672.5125pt>
+File: imagens/sistema_3.jpg Graphic file (type jpg)
+
+<use imagens/sistema_3.jpg>
+Package pdftex.def Info: imagens/sistema_3.jpg used on input line 27.
+(pdftex.def)             Requested size: 462.33418pt x 235.38289pt.
+
+Overfull \hbox (7.09007pt too wide) in paragraph at lines 27--28
+[][] 
+ []
+
+<imagens/sistema_4.jpg, id=719, 1322.9425pt x 668.4975pt>
+File: imagens/sistema_4.jpg Graphic file (type jpg)
+
+<use imagens/sistema_4.jpg>
+Package pdftex.def Info: imagens/sistema_4.jpg used on input line 33.
+(pdftex.def)             Requested size: 463.03682pt x 233.97763pt.
+
+Overfull \hbox (7.79271pt too wide) in paragraph at lines 33--34
+[][] 
+ []
+
+<imagens/sistema_krishynan.jpg, id=720, 1355.0625pt x 680.5425pt>
+File: imagens/sistema_krishynan.jpg Graphic file (type jpg)
+
+<use imagens/sistema_krishynan.jpg>
+Package pdftex.def Info: imagens/sistema_krishynan.jpg used on input line 39.
+(pdftex.def)             Requested size: 474.27899pt x 238.19344pt.
+
+Overfull \hbox (19.03488pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 45.
+[44 <./imagens/sistema_1.jpg> <./imagens/sistema_2.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 45.
+ [45 <./imagens/sistema_3.jpg> <./imagens/sistema_4.jpg>]
+<imagens/andar_from_parado_1.jpg, id=730, 208.78pt x 367.3725pt>
+File: imagens/andar_from_parado_1.jpg Graphic file (type jpg)
+
+<use imagens/andar_from_parado_1.jpg>
+Package pdftex.def Info: imagens/andar_from_parado_1.jpg used on input line 48.
+
+(pdftex.def)             Requested size: 73.07408pt x 128.58229pt.
+
+<imagens/andar_from_parado_2.jpg, id=731, 165.61874pt x 368.37625pt>
+File: imagens/andar_from_parado_2.jpg Graphic file (type jpg)
+
+<use imagens/andar_from_parado_2.jpg>
+Package pdftex.def Info: imagens/andar_from_parado_2.jpg used on input line 49.
+
+(pdftex.def)             Requested size: 57.96742pt x 128.93361pt.
+
+<imagens/andar_from_parado_3.jpg, id=732, 196.735pt x 369.38pt>
+File: imagens/andar_from_parado_3.jpg Graphic file (type jpg)
+
+<use imagens/andar_from_parado_3.jpg>
+Package pdftex.def Info: imagens/andar_from_parado_3.jpg used on input line 50.
+
+(pdftex.def)             Requested size: 68.85826pt x 129.28493pt.
+
+<imagens/andar_from_parado_4.jpg, id=733, 191.71625pt x 355.3275pt>
+File: imagens/andar_from_parado_4.jpg Graphic file (type jpg)
+
+<use imagens/andar_from_parado_4.jpg>
+Package pdftex.def Info: imagens/andar_from_parado_4.jpg used on input line 51.
+
+(pdftex.def)             Requested size: 69.01779pt x 127.91779pt.
+
+<imagens/HMM_1_apos_treino_2.jpg, id=736, 943.525pt x 459.7175pt>
+File: imagens/HMM_1_apos_treino_2.jpg Graphic file (type jpg)
+
+<use imagens/HMM_1_apos_treino_2.jpg>
+Package pdftex.def Info: imagens/HMM_1_apos_treino_2.jpg used on input line 61.
+
+(pdftex.def)             Requested size: 330.2387pt x 160.90353pt.
+
+<imagens/HMM_2_apos_treino_2.jpg, id=737, 1072.005pt x 480.79625pt>
+File: imagens/HMM_2_apos_treino_2.jpg Graphic file (type jpg)
+
+<use imagens/HMM_2_apos_treino_2.jpg>
+Package pdftex.def Info: imagens/HMM_2_apos_treino_2.jpg used on input line 68.
+
+(pdftex.def)             Requested size: 375.20737pt x 168.2812pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+ [46 <./imagens/sistema_krishynan.jpg> <./imagens/andar_from_parado_1.jpg> <./i
+magens/andar_from_parado_2.jpg> <./imagens/andar_from_parado_3.jpg> <./imagens/
+andar_from_parado_4.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+ [47 <./imagens/HMM_1_apos_treino_2.jpg> <./imagens/HMM_2_apos_treino_2.jpg>])
+(./tex/conclusoes.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [48]
+Cap\'{\i }tulo 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+[49
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 37.
+ [50]) (./monografia.bbl
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+ [51]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+ [52
+
+])
++-------------------------------------------------------------------+
+| Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
+|                  http://abntex.codigolivre.org.br                 |
++-------------------------------------------------------------------+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 90.
+[53]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+ (./monografia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package rerunfilecheck Info: File `monografia.out' has not changed.
+(rerunfilecheck)             Checksum: 7D47381FE074A82090D46B4FCF017703;2918.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+ ) 
+Here is how much of TeX's memory you used:
+ 9583 strings out of 494929
+ 145488 string characters out of 6180142
+ 243244 words of memory out of 5000000
+ 12354 multiletter control sequences out of 15000+600000
+ 12948 words of font info for 45 fonts, out of 8000000 for 9000
+ 16 hyphenation exceptions out of 8191
+ 29i,14n,42p,1673b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/transeletron/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on monografia.pdf (55 pages, 7172345 bytes).
+PDF statistics:
+ 886 PDF objects out of 1000 (max. 8388607)
+ 717 compressed objects within 8 object streams
+ 217 named destinations out of 1000 (max. 500000)
+ 676 words of extra memory for PDF output out of 10000 (max. 10000000)
+

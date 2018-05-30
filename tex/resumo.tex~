@@ -1,0 +1,12 @@
+\begin{resumo}
+
+O uso de gestos na interação homem-computador apresenta uma justificativa muito poderosa nas pesquisas de modelagem, análise e reconhecimento de gestos. Nos últimos anos muitos novos meios de interação com o computador foram criados, entre eles, meios envolvendo visão computacional, reconhecimento de padrões e inteligência artificial. Neste trabalho foi desenvolvido um modo de interação com um personagem em um ambiente virtual através de reconhecimento de gestos contínuos pré-definidos diante de um fundo estático.
+
+O sistema consiste em cinco módulos: detecção e extração da silhueta do usuário através de imagens obtidas de uma câmera em tempo real, extração e criação de vetores de características, o treinamento de modelos ocultos de Markov, identificação dos gestos e o ambiente virtual.
+
+Primeiro, foi utilizado extração do fundo para extrair a região contendo a silhueta do usuário, em seguida é usado malha de características para alimentar o vetor de características, quantização vetorial por k-means nesses vetores para criação dos símbolos que serão usados no processo de treino e classificação das cadeias ocultas de Markov. Cada sequência de símbolos é avaliada em todas as cadeias e a que retornar maior probabilidade indica o gesto a ser realizado pelo avatar no ambiente virtual.
+
+\textbf{Palavras-chave: } Modelos Ocultos de Markov, Ambiente Virtual, Interação Humano-Computador (IHC).
+
+\end{resumo}
+

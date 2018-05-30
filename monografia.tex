@@ -1,77 +1,91 @@
 %-------------------------------- Configurações --------------------------------
 
-\documentclass[a4paper,         % Tamanho do papel: A4
-	             abntfigtabnum,   %
-	             noindentfirst,   %
-	             normaltoc,       %
-%	             pnumromarab,     %
-%	             capchap,         %
-]{abnt}
+\documentclass[a4paper, abntfigtabnum, noindentfirst, normaltoc, pnumplain, notimes]{abnt}
 
-\usepackage[utf8]{inputenc}
-\usepackage{graphicx}
-\usepackage[alf]{abntcite}
+\newcommand{\bc}{NavyBlue}
+
+\usepackage[Sonny]{fncychap}
+
+\usepackage{subfigure}
+
+\usepackage[utf8]{inputenc} % para pode escrever caracteres acentuados normalmente
 \usepackage[brazil]{babel}
-\usepackage{listingsutf8}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor} % http://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage[pdfborder={0 0 0},pdfborderstyle={/S/U/W 0.5},citebordercolor=\bc,filebordercolor=\bc,urlbordercolor=\bc,linkbordercolor=\bc]{hyperref} % http://www.tug.org/applications/hyperref/manual.html e http://migre.me/7FH3e
+\usepackage[alf]{abntcite}
+\usepackage{booktabs} % para utilização das linhas separadoras na tabela
 \usepackage{textcomp}
-\usepackage[usenames,dvipsnames]{color} % http://en.wikibooks.org/wiki/LaTeX/Colors
+%\usepackage{minted} % foi adicionado o seguinte hack no minted: http://migre.me/7M8wI
+\usepackage{nomencl} % para criar a lista de siglas
 
-%-------------------------------- Highligthing ---------------------------------
+\usepackage{amsmath}
 
-\lstset{
-  language=Ruby,
-  basicstyle=\ttfamily,
-  columns=flexible,
-  numberbychapter=false,
-  showstringspaces=false,
-  stringstyle=\color{red}\textit,
-  keywords={class, pass, in, for, while, if, is, elif, else, not, and, or, def, print, exec, break, continue, return, assert, from, import, with, as, require, end, do},
-  keywordstyle=\color{blue}\textbf,
-  emph={self, True, False, None, object, new},
-  emphstyle=\color{magenta}\textbf,
-  emph={[2]Funcionalidade, Como, Eu, E, quero, Para, Cenario, Dado, Quando, Entao, should, should_not, @matcher, context, it, describe, expect, to, world, @step, step, assert_equal, fail, expect, to_not, raise_error},
-  emphstyle=[2]\color{MidnightBlue}\textbf,
-  inputencoding=utf8/latin1, % http://stackoverflow.com/questions/1116266/listings-in-latex-with-utf-8-or-at-least-german-umlauts
-  identifierstyle=,
-%  frame=single,
-}
+%----------------------- Números de Figuras e Tabelas no Formato Capítulo.número_da_Figura ------------------------
 
+\newcommand{\Chapter}[1]{\chapter{#1} \setcounter{figure}{0} \setcounter{table}{0}}
+\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
 
-\begin{document}
+%----------------------- Quebra de linha após paragraph ------------------------
+
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries}}
+\makeatother
 
 %--------------------------------- Informações ---------------------------------
 
-\titulo{Jogos fisicamente interativos por computador}
-\autor{Élisson Michael Fernandes Meirelles Araújo}
-\instituicao{Universidade Estadual do Norte Fluminense Darcy Ribeiro}
-\orientador[Tutor: ]{Luis Rivera}
-\comentario{Monografia apresentada ao Curso de Graduação em Ciência da Computação da Universidade Estadual do Norte Fluminense Darcy Ribeiro como requisito para obtenção do título de Bacharel em Ciência da Computação, sob orientação do Prof. Luis Rivera}
-\local{Campos dos Goytacazes/RJ}
-\data{2011}
+\newcommand{\meutitulo}{Interatividade virtual através de reconhecimento de gestos utilizando cadeias de markov ocultas}
+
+% http://www.tug.org/applications/hyperref/manual.html
+\hypersetup{
+  pdftitle=\meutitulo,
+  pdfauthor=Élisson Michael Fernandes Meirelles Araújo
+}
+
+\makenomenclature
+
+\begin{document}
+
+  \titulo{\meutitulo}
+  \autor{Élisson Michael Fernandes Meirelles Araújo}
+  \instituicao{Universidade Estadual do Norte Fluminense Darcy Ribeiro}
+  \orientador[Orientador:\par]{Prof. Dr. Luis Antônio Rivera Escriba}
+  \comentario{Monografia apresentada ao curso de graduação em Ciência da Computação da Universidade Estadual do Norte Fluminense Darcy Ribeiro como requisito para obtenção do título de Bacharel em Ciência da Computação.}
+  \local{Campos dos Goytacazes - RJ}
+  \data{2012}
+
+  \capa
+  \folhaderosto
+
+  \input{tex/folha_de_aprovacao}
+  \input{tex/resumo}
+  \input{tex/abstract}
+
+  \sumario
+  \listoffigures
+  \listoftables
+  \printnomenclature
+
+  \input{tex/introducao}
+
+  \input{tex/reconhecimento}
+  \input{tex/gestos}
+  \input{tex/interacao}
+  \input{tex/resultados}
+
+  \input{tex/conclusoes}
+
+  \anexo
 
 
-\capa
-\folhaderosto
+  %--------------------------------- Bibliografia ------------------------------
 
-
-
-
-
-
-
-\sumario
-
-\include{introducao}
-\include{fundamentacao_teorica}
-
-\include{desenvolvimento}
-
-
-%--------------------------------- Bibliografia --------------------------------
-
-\citeoption{abnt-repeated-author-omit=yes}
-\bibliographystyle{abnt-alf}
-\bibliography{bibliografia}
-
+  \citeoption{abnt-repeated-author-omit=yes}
+  \bibliographystyle{abnt-alf}
+  \bibliography{bibliografia}
 \end{document}
 

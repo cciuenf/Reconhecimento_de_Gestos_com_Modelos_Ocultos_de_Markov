@@ -1,0 +1,39 @@
+\Chapter{Conclusões e trabalhos futuros}
+
+Neste trabalho foi implementado um avatar em um ambiente virtual que recebe comandos do usuário através de visão computacional e técnicas de reconhecimento de padrões. O sistema baseou-se em algoritmos de segmentação no processo de captura e extração da silhueta do usuário a partir de um câmera. É importante ter um ambiente onde exista luz controlada, evitando-se assim variações na iluminação e muitos ruídos no sinal da silhueta extraída.
+
+Vinte e uma posturas foram definidas, quatro para cada um dos cinco gestos definidos e uma para a situação onde o usuário está parado. Os gestos são: Caminhar para a direita, caminhar pra esquerda, levantar o braço direito, levantar o braço esquerdo e levantar ambos os braços.
+
+Para extração das características das imagens foi utilizado uma malha que contabilizou a relação de pixels brancos em cada um de seus segmentos na silhueta. O classificador utilizado para as postura foi quantização vetorial. Vinte e uma imagens foram escolhidas para representar os centros de seus grupos e as imagens passaram a ser descritas com o índice do centro do grupo ao qual elas foram agrupadas.
+
+Uma sequência de posturas descreve um gesto, o classificador utilizado para essas sequências foi cadeia oculta de Markov, uma foi criada para cada gesto, contendo cada uma quatro estados, de acordo com a quantidade de posturas para cada gestos.
+
+Essas cadeias foram treinadas com o algoritmo de Baum-Welch e tendo como entrada sequências de quatro diferentes vídeos para cada gestos, do respectivo gesto sendo executado de forma isolada.
+
+A todo segundo uma sequência de trinta símbolos é enviada para o algoritmo de Viterbi analisar a probabilidade dessa sequência ocorrer em cada uma das cinco HMMs e a que retornar maior probabilidade envia um comando correspondente para o ambiente virtual.
+
+O ambiente virtual é composto de um avatar que fica aguardando comandos de entrada que decidirão qual animação será executada, esses gestos são guardados em uma fila no momento em que são detectados e saem da fila a toda vez que o avatar conclui uma animação.
+
+Esse sistema atendeu aos objetivos desse trabalho, que era desenvolver um modelo de reconhecimento de gestos a partir de visão computacional, promovendo assim um meio de interação homem/máquina mais natural do que os convencionais mouse e teclado.
+
+
+\section{Trabalhos futuros}
+
+Novas possibilidades de desenvolvimento de outras formas de interação homem/máquina baseados em visão computacional são estimuladas a partir do sistema proposto nesse trabalho. Partes deste modelo podem ser utilizadas na criação de outros sistemas ou a partir dele, como os modelos de segmentação, quantização ou os modelos de Markov ocultos implementados.
+
+Segue abaixo, algumas atividades que poderiam acontecer para evoluir o sistema implementado, a partir do sistema atual.
+
+\begin{itemize}
+
+\item Estudar a possibilidade de se usar o acessório Kinect em conjunto com HMMs para análise das sequências de sinais.
+
+\item Implementar um algoritmo de subtração de fundo mais robusto, que possa lidar com problemas relacionados a iluminação e fundos mais complexos.
+
+\item Criar e treinar novas HMMs para reconhecerem mais gestos e mais comandos possam ser enviados ao ambiente virtual.
+
+\item Expandir o numéro de animações do avatar e criar outros objetos com os quais ele poderia interagir no cenário.
+
+\item Avaliar a possibilidade de utilização de outras características para criação do vetor de características ou expandi-lo, o objetivo é garantir uma maior taxa de acertos das posturas.
+
+\end{itemize}
+

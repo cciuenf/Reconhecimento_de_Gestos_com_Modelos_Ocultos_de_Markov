@@ -1,0 +1,128 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.53 }
+
+\bibitem[AL-Rosan, Assleh e Tala'a 2009]{DCT}
+\abntrefinfo{AL-Rosan, Assleh e Tala'a}{AL-ROSAN; ASSLEH; TALA'A}{2009}
+{AL-ROSAN, M.; ASSLEH, K.; TALA'A, A. Video-based signer-independent arabic
+  sign language recognition using hidden markov models.
+\emph{Applied Soft Computing}, p. 990 -- 999, 2009.}
+
+\bibitem[Bishop 2006]{Patter-Recognition-M-Bishop}
+\abntrefinfo{Bishop}{BISHOP}{2006}
+{BISHOP, C.~M. \emph{Pattern Recognition and Machine Learning}. [S.l.]:
+  Springer, 2006. 424 - 430~p.}
+
+\bibitem[Bradski e Kaehler 2008]{LearningOpenCV}
+\abntrefinfo{Bradski e Kaehler}{BRADSKI; KAEHLER}{2008}
+{BRADSKI, G.; KAEHLER, A. \emph{Learning OpenCV}: Computer vision with the
+  opencv library. United States of America: O'RELLY, 2008.}
+
+\bibitem[Brito 2010]{Blender3D}
+\abntrefinfo{Brito}{BRITO}{2010}
+{BRITO, A. \emph{Blender3D}: Guia do usuário. São Paulo: Novatec, 2010.}
+
+\bibitem[Chen, Fu e Huang 2003]{HandGestureUsingHMMs}
+\abntrefinfo{Chen, Fu e Huang}{CHEN; FU; HUANG}{2003}
+{CHEN, F.-S.; FU, C.-M.; HUANG, C.-L. Hand gesture reconition using a real-time
+  tracking method and hidden markov models.
+\emph{Image and Vision Computing}, Elsevier Science B. V., v.~21, n.~8, p. 745
+  -- 758, 2003.}
+
+\bibitem[Elmezain et al. 2009]{HMM-Based_Isolated_Hand_Gesture_Recognition}
+\abntrefinfo{Elmezain et al.}{ELMEZAIN et al.}{2009}
+{ELMEZAIN, M. et al. A hidden markov model-based isolated and meaningful hand
+  gesture recognition.
+\emph{International Journal of Electrical and Electronics Engineering}, p. 156
+  -- 163, 2009.}
+
+\bibitem[Espindola 2009]{HMMLuciana}
+\abntrefinfo{Espindola}{ESPINDOLA}{2009}
+{ESPINDOLA, L. da S.
+\emph{Um Estudo sobre Modelos Ocultos de Markov}.
+Monografia (Pós-graduação) --- Pontifícia Universidade Católica do Rio
+  Grande do Sul, Porto Alegre, 2009.}
+
+\bibitem[Liu e Yu 2009]{Liu}
+\abntrefinfo{Liu e Yu}{LIU; YU}{2009}
+{LIU, H.; YU, X. Application research of k-means clustering algorithm in image
+  retrieval system.
+\emph{Proceedings of the Second Symposium International Computer Science and
+  Computational Technology}, p. 274 -- 277, 2009.}
+
+\bibitem[Liu et al. 2004]{UnderstandingHMMTrainingForVideoGestureRecognition}
+\abntrefinfo{Liu et al.}{LIU et al.}{2004}
+{LIU, N. et al. Understading hmm training for video gesture recognition.
+\emph{TENCON 2004. 2004 IEEE Region 10 Conference}, Conference Publications,
+  n.~1, p. 567 -- 570, 2004.}
+
+\bibitem[Marshall 2010]{InsideKinect}
+\abntrefinfo{Marshall}{MARSHALL}{2010}
+{MARSHALL, D. \emph{Inside the Kinect Hardware}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.trueachievements\-.com\-/n2124\-/inside-the-kinect-hardware\-.htm$>$}{http://www.trueachievements.com/n2124/inside-the-kinect-hardware.htm}.
+  Acesso em: 23/09/2011.}
+
+\bibitem[Nianjun, Lovell e Kootsookos
+  2003]{EvaluationOfHMMTrainingAlgorithmsForLetterHandGestureRecognition}
+\abntrefinfo{Nianjun, Lovell e Kootsookos}{NIANJUN; LOVELL; KOOTSOOKOS}{2003}
+{NIANJUN, L.; LOVELL, B.~C.; KOOTSOOKOS, P.~J. Evaluation of hmm training
+  algorithms for letter hand gesture recognition.
+\emph{Proceedings of the IEEE International Symposium on Signal Processing and
+  Information Technology}, The Institute of Electrical and Electronics
+  Engineers, v.~1, n.~1, p. 4 -- 7, 2003.}
+
+\bibitem[Rabiner 1989]{Rabiner}
+\abntrefinfo{Rabiner}{RABINER}{1989}
+{RABINER, L.~R. A tutorial on hidden markov models and selected applications in
+  speech recognition.
+\emph{Proceedings of the IEEE}, v.~77, n.~2, p. 257 -- 286, 1989.}
+
+\bibitem[Scandaroli e Melo 2009]{DeteccaoInterface}
+\abntrefinfo{Scandaroli e Melo}{SCANDAROLI; MELO}{2009}
+{SCANDAROLI, T.~G.; MELO, D.~D. \emph{Detecção de usuário e estimação de
+  posição para interface com realidade virtual}. Brasilía/DF: [s.n.], 2009.}
+
+\bibitem[TATARU, VIERIU e GORAS
+  2010]{OnHandGesturesRecognitionUsingHiddenMarkovModels}
+\abntrefinfo{TATARU, VIERIU e GORAS}{TATARU; VIERIU; GORAS}{2010}
+{TATARU, V.; VIERIU, R.-L.; GORAS, L. On hand gestures recognition using hidden
+  markov models.
+\emph{ACTA TECHNICA NAPOCENSIS Electronics and Telecommunications}, v.~51,
+  n.~3, p. 29 -- 32, 2010.}
+
+\bibitem[Truyenque 2005]{MestradoTruyenque}
+\abntrefinfo{Truyenque}{TRUYENQUE}{2005}
+{TRUYENQUE, M. A.~Q.
+\emph{Uma Aplicação de Visão Computacional que Utiliza Gestos da Mão para
+  Interagir com o Computador}.
+Disserta\c{c}\~ao (Mestrado em Informática) --- Pontifícia Universidade
+  Católica do Rio de Janeiro, Rio de Janeiro, 2005.}
+
+\bibitem[Viola e Jones 2003]{Viola}
+\abntrefinfo{Viola e Jones}{VIOLA; JONES}{2003}
+{VIOLA, P.; JONES, M. Robust real-time face detection.
+\emph{International Journal of Computer Vision}, p. 137 -- 154, 2003.}
+
+\bibitem[Weisstein]{Weisstein}
+\abntrefinfo{Weisstein}{WEISSTEIN}{}
+{WEISSTEIN, E.~W. \emph{Least Squares Fitting}.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/mathworld\-.wolfram\-.com\-/LeastSquaresFitting\-.html$>$}{http://mathworld.wolfram.com/LeastSquaresFitting.html}.
+  Acesso em: 28/07/2012.}
+
+\bibitem[Wu e Huang 1999]{Vision-Based-Gesture-Recognition-A-Review}
+\abntrefinfo{Wu e Huang}{WU; HUANG}{1999}
+{WU, Y.; HUANG, T.~S. Vision-based gesture recognition: A review.
+Beckman Institute 405 N. Mathews, 1999.}
+
+\bibitem[YAMATO, OHYA e ISHII 1992]{YAMATO}
+\abntrefinfo{YAMATO, OHYA e ISHII}{YAMATO; OHYA; ISHII}{1992}
+{YAMATO, J.; OHYA, J.; ISHII, K. Recognizing human action in time-sequential
+  images using hidden markov model.
+Yokosuka, Japan, 1992.}
+
+\end{thebibliography}

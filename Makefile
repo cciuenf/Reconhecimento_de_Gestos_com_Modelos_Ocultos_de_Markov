@@ -1,12 +1,12 @@
 pdf:
 	@clear
-	@echo ""
-	@echo "================="
-	@echo "Generating pdf..."
-	@echo "================="
-	@echo ""
-	@pdflatex monografia.tex; bibtex monografia; pdflatex monografia.tex; pdflatex monografia.tex; evince  monografia.pdf &
+	@pdflatex -shell-escape monografia.tex # compila c/ sumário vazio e sem links p/ referências
+	@bibtex monografia # compila as referências
+	@makeindex monografia.nlo -s nomencl.ist -o monografia.nls # gera a lista de siglas
+	@pdflatex -shell-escape monografia.tex # compila adicionando o sumário
+	@pdflatex -shell-escape monografia.tex # compila adicionando os links p/ as referências
+	@evince monografia.pdf &
 
 clean:
-	@rm *.bbl *.aux *.blg *.log *.toc *.lof *.lol
+	@rm *.bbl *.aux *.blg *.log *.toc *.lof *.lol *.out *.pdf *.ilg *.nlo *.nls *.lot 2> /dev/null; exit 0
 
