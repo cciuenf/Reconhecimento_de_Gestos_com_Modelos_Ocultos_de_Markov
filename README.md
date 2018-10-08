@@ -10,11 +10,13 @@ As dependências são baseadas na distribuição Linux Ubuntu.
 
     sudo apt-get install texlive-latex-base abntex texlive-fonts-recommended texlive-lang-portuguese
 
-    sudo easy_install pygments pygments-rspec pygments-style-github
-
 # Compilando
 
 Para compilar, depois ter instalado as dependências, basta rodar o comando
 `make` ou `make pdf`.
 
-Antes de efetuar um commit rote o comando `make clean` para remover arquivos temporários (e o pdf).
+Se encontrar o erro `LaTeX Error: File fncychap.sty not found`, instale também.
+
+  sudo apt-get install latexmk texlive texlive-science texlive-formats-extra
+
+Antes de efetuar um commit execute o comando `make clean` para remover arquivos temporários (e o pdf).
